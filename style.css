@@ -1,0 +1,56 @@
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    margin: 0;
+}
+.container{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width:50%;
+    padding-left: 40px;
+    margin-left:40px;
+}
+.half-width img{
+    width:70%;
+
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    color:gray;
+}
+p{
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, yellow);
+    padding: 10px 30px;
+    border-radius:20px;
+    font-weight: 700;
+    
+}
+.about-me{
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+}
+#about-right{
+    margin-top:120px;
+}
+.about-me img{
+    width:60%;
+    height:90%;
+    margin-top:45px;
+}
+footer{
+    background-color:#000;
+    color:#fff;
+    text-align:center;
+    padding:20px 0px;
+}
