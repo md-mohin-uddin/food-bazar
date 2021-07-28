@@ -76,7 +76,19 @@ p{
     border-radius:15px ;
     box-shadow: 0 0 10px gray;
 }
-footer{
+.footer-1{
+    text-align: center;
+    background-color:antiquewhite;
+    padding: 20px 0;
+}
+.footer-1 img{
+    height: 50px;
+    width: 50px;
+    margin:0px 20px;
+
+}
+
+.footer-2{
     background-color:#000;
     color:#fff;
     text-align:center;
